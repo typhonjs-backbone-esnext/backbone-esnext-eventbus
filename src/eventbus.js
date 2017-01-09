@@ -21,5 +21,5 @@ const pluginEventbus = new TyphonEvents("pluginEventbus");
  */
 export default mainEventbus;
 
-export {auxEventbus};
-export {pluginEventbus};
+export { auxEventbus };
+export { pluginEventbus };
