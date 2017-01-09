@@ -41,3 +41,11 @@ const value = mainEventbus.triggerSync('fire:test');  // Prints 'Test Fired' and
 assert(value === 42);
 
 ```
+
+There are also two other alternate eventbus instances provided as named exports: `auxEventbus` and `pluginEventbus`. 
+These can be imported as follows:
+
+```
+import { auxEventbus } from 'backbone-esnext-eventbus';
+import { pluginEventbus } from 'backbone-esnext-eventbus';
+```

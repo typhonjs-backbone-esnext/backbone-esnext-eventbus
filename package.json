@@ -4,7 +4,7 @@
   "homepage": "https://github.com/typhonjs-backbone-esnext/backbone-esnext-eventbus",
   "description": "Provides a default main eventbus instance for backbone-esnext-events.",
   "license": "MPL-2.0",
-  "main": "./dist/mainEventbus",
+  "main": "./dist/eventbus",
   "repository": {
     "type": "git",
     "url": "https://github.com/typhonjs-backbone-esnext/backbone-esnext-eventbus.git"
