@@ -1,4 +1,4 @@
-![backbone-esnext-eventbus](http://i.imgur.com/4OdT8Ax.png)
+![backbone-esnext-eventbus](https://i.imgur.com/4OdT8Ax.png)
 
 [![NPM](https://img.shields.io/npm/v/backbone-esnext-eventbus.svg?label=npm)](https://www.npmjs.com/package/backbone-esnext-eventbus)
 [![Documentation](http://docs.typhonjs.io/typhonjs-backbone-esnext/backbone-esnext-eventbus/badge.svg)](http://docs.typhonjs.io/typhonjs-backbone-esnext/backbone-esnext-eventbus/)
