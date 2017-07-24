@@ -41,10 +41,13 @@ assert(value === 42);
 
 ```
 
-There are also two other alternate eventbus instances provided as named exports: `auxEventbus` and `pluginEventbus`. 
+There are also four other alternate eventbus instances provided as named exports: `auxEventbus`, `backboneEventbus`, `pluginEventbus` and `testEventbus`. 
+
 These can be imported as follows:
 
 ```
-import { auxEventbus } from 'backbone-esnext-eventbus';
-import { pluginEventbus } from 'backbone-esnext-eventbus';
+import { auxEventbus }      from 'backbone-esnext-eventbus';
+import { backboneEventbus } from 'backbone-esnext-eventbus';
+import { pluginEventbus }   from 'backbone-esnext-eventbus';
+import { testEventbus }     from 'backbone-esnext-eventbus';
 ```
