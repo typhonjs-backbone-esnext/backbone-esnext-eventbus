@@ -10,10 +10,9 @@
 [![Coverage](https://img.shields.io/codecov/c/github/typhonjs-backbone-esnext/backbone-esnext-eventbus.svg)](https://codecov.io/github/typhonjs-backbone-esnext/backbone-esnext-eventbus)
 [![Dependency Status](https://david-dm.org/typhonjs-backbone-esnext/backbone-esnext-eventbus.svg)](https://david-dm.org/typhonjs-backbone-esnext/backbone-esnext-eventbus)
 
-Provides a default instance of [backbone-esnext-events](https://www.npmjs.com/package/backbone-esnext-events) which 
-may serve as a main eventbus. Please refer to backbone-esnext-events for detailed documentation. The main impetus for 
-a default main eventbus being easily imported across modules is to facilitate message passing between modules versus
-direct dependencies / method invocation. 
+For essential information pertaining to backbone-esnext please refer to [backbone-esnext](https://github.com/typhonjs-backbone-esnext/backbone-esnext) and the main [issues forum](https://github.com/typhonjs-backbone-esnext/backbone-esnext/issues).
+
+`backbone-esnext-eventbus` provides a default instance of [backbone-esnext-events](https://www.npmjs.com/package/backbone-esnext-events) which may serve as a main eventbus. Please refer to backbone-esnext-events for detailed documentation. The main impetus for a default main eventbus being easily imported across modules is to facilitate message passing between modules versus direct dependencies / method invocation. 
 
 It should be noted that this module only depends on backbone-esnext-events which has no other dependencies. 
 
